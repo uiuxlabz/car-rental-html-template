@@ -4,6 +4,10 @@ A premium, framework-free car rental website template with a bespoke navy and te
 
 ---
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Design Distinction
 
 **Cental** is built from the ground up as a zero-dependency, framework-free HTML template. Every pixel is hand-crafted with a purpose-built CSS design system -- no Bootstrap, no Tailwind, no jQuery.
